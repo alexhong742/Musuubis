@@ -9,7 +9,11 @@
     "webpack": "./node_modules/.bin/webpack --w",
     "start": "node ./server/server.js"
   },
-  "author": "",
+  "author": "alexhong742",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexhong742/Musuubis.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.0",
